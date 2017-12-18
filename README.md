@@ -35,6 +35,8 @@ JSP pages provides updated view of CRUD operation results.
 
 **Excecute the file - db.sql in MySQL to get schema and some default data for the Web App**
 
+*Test.java and index.html are test files(ignore these files)*
+
 ### Configuration stack:
 - Java version: Java 9
 - Server: Apache Tomcat 8.5
