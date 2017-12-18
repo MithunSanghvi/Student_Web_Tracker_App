@@ -1,0 +1,25 @@
+<!-- <?xml version="1.0" encoding="ISO-8859-1"?> -->
+<!-- <web-app> -->
+<!-- 	<servlet> -->
+<!-- 		<servlet-name>TestServlet</servlet-name> -->
+<!-- 		<servlet-class>com.lcode.web.jdbc.TestServlet</servlet-class> -->
+<!-- 	</servlet> -->
+<!-- 	<servlet-mapping> -->
+<!-- 		<servlet-name>TestServlet</servlet-name> -->
+<!-- 		<url-pattern>/studentList</url-pattern> -->
+<!-- 	</servlet-mapping> -->
+
+<!-- </web-app> -->
+
+<!-- <Context> -->
+
+<!--   <Resource name="web_student_db"  -->
+<!--   			auth="Container" type="javax.sql.DataSource" -->
+<!--                maxActive="20" maxIdle="5" maxWait="10000" -->
+<!--                username="root" password="sqladmin"  -->
+<!--                driverClassName="com.mysql.jdbc.Driver" -->
+<!--                url="jdbc:mysql://localhost:3306/sakila?useSSL=false"/> -->
+               
+           
+
+<!-- </Context> -->
