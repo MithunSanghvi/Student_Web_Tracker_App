@@ -33,8 +33,9 @@ Browser request is processed by StudentControlServlet that calls appropriate Stu
 StudentControlServlet.java performs data processing on data(Student Object) returned by StudentDbUtil and forwards data to JSP pages attached to request attributes.
 JSP pages provides updated view of CRUD operation results.
 
+**Excecute the file - db.sql in MySQL to get schema and some default data for the Web App**
 
-
+### Configuration stack:
 - Java version: Java 9
 - Server: Apache Tomcat 8.5
 - DataBase: MySQL
